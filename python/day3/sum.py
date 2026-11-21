@@ -1,4 +1,4 @@
-n = int (input ("enter a number : "))
+n = int (input ("enter a numbe r : "))
 
 sum = 0
 for i in range (1,n+1):
